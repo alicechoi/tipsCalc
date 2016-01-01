@@ -5,7 +5,7 @@ tips is a tip calculator application for iOS.
 
 Submitted by: Alice Choi
 
-Time spent: 4 hours spent in total
+Time spent: 4 hours spent in total (in programming)
 
 ## User Stories
 
